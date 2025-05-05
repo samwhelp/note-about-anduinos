@@ -18,6 +18,7 @@
 * [字型](#字型)
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
+* [連結](https://samwhelp.github.io/note-about-anduinos/read/link.html)
 * [相關筆記](#相關筆記)
 
 
