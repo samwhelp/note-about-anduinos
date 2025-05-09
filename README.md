@@ -39,6 +39,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [AnduinOS ISO Builder 探索筆記](https://samwhelp.github.io/anduinos-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/anduinos-gnome-shell-adjustment) |
 | [AnduinOS / ISO Builder / Remix](https://samwhelp.github.io/anduinos-iso-builder-remix/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix) |
 | [AnduinOS / Live Build Config / Sample](https://samwhelp.github.io/anduinos-live-build-config-sample/) | [GitHub](https://github.com/samwhelp/anduinos-live-build-config-sample) |
 
