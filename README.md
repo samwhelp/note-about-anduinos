@@ -19,6 +19,7 @@
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
 * [連結](https://samwhelp.github.io/note-about-anduinos/read/link.html)
+* [相關討論](https://samwhelp.github.io/note-about-anduinos/read/link/discussion.html)
 * [相關筆記](#相關筆記)
 
 
