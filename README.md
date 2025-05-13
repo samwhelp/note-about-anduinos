@@ -30,6 +30,9 @@
 | Link | GitHub |
 | ---- | ------ |
 | [AnduinOS Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-anduinos-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-anduinos-gnome-shell) |
+| [AnduinOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-anduinos-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-anduinos-kde-plasma) |
+| [AnduinOS Xfce 探索筆記](https://samwhelp.github.io/note-about-anduinos-xfce/) | [GitHub](https://github.com/samwhelp/note-about-anduinos-xfce) |
+| [AnduinOS Lxqt 探索筆記](https://samwhelp.github.io/note-about-anduinos-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-anduinos-lxqt) |
 
 
 
