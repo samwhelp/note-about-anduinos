@@ -27,7 +27,7 @@ parent: 如何
 
 不過使用上，我遇到一些問題，感覺一些功能，還沒有和「`gnu-coreutils`」一致，一些我常用的指令操作後，沒有我原本預期的結果。
 
-我個人還是習慣使用「`gnu-coreutils`」，所以就探尋了如何改回使用「gnu-coreutils」的方法。
+我個人還是習慣使用「`gnu-coreutils`」，所以就探尋了如何改回使用「`gnu-coreutils`」的方法。
 
 簡單紀錄如下：
 
