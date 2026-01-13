@@ -21,7 +21,7 @@ has_children: true
 
 | 系統 |
 | ---- |
-| [如何改回使用「GNU coreutils」](https://samwhelp.github.io/note-about-anduinos/read/howto/switch-back-to-using-gnu-corutils.html) |
+| [如何改回使用「gnu-coreutils」](https://samwhelp.github.io/note-about-anduinos/read/howto/switch-back-to-using-gnu-corutils.html) |
 
 
 
