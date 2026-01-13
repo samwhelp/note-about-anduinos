@@ -15,6 +15,7 @@
 * [AnduinOS Respin](#anduinos-respin)
 * [ISO](#iso)
 * [微調腳本](#微調腳本)
+* [如何](#如何)
 * [字型](#字型)
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
@@ -59,6 +60,15 @@
 | ------- |
 | [AnduinOS Config](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main) |
 | [Tool Config](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+
+
+## 如何
+
+| 系統 |
+| ---- |
+| [如何改回使用「GNU coreutils」](https://samwhelp.github.io/note-about-anduinos/read/howto/switch-back-to-using-gnu-corutils.html) |
 
 
 

@@ -12,13 +12,16 @@ has_children: true
 
 ## 主題
 
-* [System](#system)
+* [系統](#系統)
 
 
 
 
-## System
+## 系統
 
-| System |
-| ------ |
+| 系統 |
+| ---- |
 | [如何改回使用「GNU coreutils」](https://samwhelp.github.io/note-about-anduinos/read/howto/switch-back-to-using-gnu-corutils.html) |
+
+
+
