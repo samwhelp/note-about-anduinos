@@ -6,6 +6,8 @@
 | ---- | ------ |
 | [AnduinOS Adjustment](https://samwhelp.github.io/anduinos-adjustment/) | [GitHub](https://github.com/samwhelp/anduinos-adjustment) |
 | [AnduinOS 探索筆記](https://samwhelp.github.io/note-about-anduinos/) | [GitHub](https://github.com/samwhelp/note-about-anduinos) |
+| [demo-for-anduinos-discussion](https://samwhelp.github.io/demo-for-anduinos-discussion/) | [GitHub](https://github.com/samwhelp/demo-for-anduinos-discussion) |
+
 
 > 關於「AnduinOS」，目前發行的版本，是以「Gnome Shell」為預設的桌面環境，所以相關的操作，請參考「[AnduinOS Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-anduinos-gnome-shell/)」。
 
