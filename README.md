@@ -9,7 +9,7 @@
 | [demo-for-anduinos-discussion](https://samwhelp.github.io/demo-for-anduinos-discussion/) | [GitHub](https://github.com/samwhelp/demo-for-anduinos-discussion) |
 
 
-> 關於「AnduinOS」，目前發行的版本，是以「Gnome Shell」為預設的桌面環境，所以相關的操作，請參考「[AnduinOS Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-anduinos-gnome-shell/)」。
+> 關於「AnduinOS」，目前發行的版本，是以「Gnome Shell」為預設的桌面環境，所以相關的操作，請參考「[AnduinOS Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-anduinos-gnome-shell/)」，而此筆記則是紀錄通用的系統操作或微調。
 
 
 
